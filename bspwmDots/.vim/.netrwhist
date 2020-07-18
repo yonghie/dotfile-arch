@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/user/Documents/GitHub/ranger-gitplug_new/docs'
+let g:netrw_dirhist_0='/home/user/.config/neofetch'
+let g:netrw_dirhist_9='/home/user/Documents/flask-projects/Project-1/templates/urls'
+let g:netrw_dirhist_8='/home/user/Documents/flask-projects/Project-1/templates'
+let g:netrw_dirhist_7='/home/user/Documents/flask-projects/Project-1/templates/home'
+let g:netrw_dirhist_6='/home/user/Documents/flask-projects/Project-1/templates'
+let g:netrw_dirhist_5='/home/user/Documents/flask-projects/Project-1/templates/home'
+let g:netrw_dirhist_4='/home/user/Documents/flask-projects/Project-1/templates'
+let g:netrw_dirhist_3='/home/user/.config/polybar'
+let g:netrw_dirhist_2='/home/user/Documents/flask-projects/Project-1/templates'
